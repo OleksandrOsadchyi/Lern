@@ -18,5 +18,4 @@ public class HW4Task10 {
                 System.out.println("Результат: " + i);
             }
     }
-
 }
