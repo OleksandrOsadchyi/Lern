@@ -1,4 +1,4 @@
-package sample;
+/*package sample;
 
 import java.util.Scanner;
 
@@ -11,7 +11,7 @@ public class Task1 {
         System.out.println("Введіть імя:");
         String name = scan.nextLine();
         System.out.println("Введіть прізвище:");
-        String surname = scan.nextLine();
+
         System.out.println("Введіть Ваш вік:");
         String age = scan.nextLine();
 
@@ -21,3 +21,4 @@ public class Task1 {
     }
 
 }
+*/
