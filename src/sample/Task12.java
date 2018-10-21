@@ -8,9 +8,10 @@ public class Task12 {
         System.out.println("Введіть число:");
         int n = sc.nextInt();
         int sum = 0;
-        for (int i = 0; i < n; i++) {
+        for (int i = 0; i < 5; i++) {
         sum = sum + i;
             System.out.println(sum);
+
         }
     }
 }
