@@ -26,7 +26,6 @@ public class Task4 {
 
                 System.out.println("Я " + j + "-а людина. Я маю зїсти: " + i + " пирогів");
             }
-
             System.out.println();
         }
     }
