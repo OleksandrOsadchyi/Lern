@@ -7,7 +7,7 @@ public class Task6 {
         int[] array = new int[10];
 
         for (int i = 0; i < 10; i++) {
-            array[i] = (int) Math.round(Math.random() * 200) - 100;
+            array[i] = (int) Math.round(Math.random() * 50);
         }
 
         System.out.print("Створений масив:");
